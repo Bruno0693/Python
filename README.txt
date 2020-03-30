@@ -1,0 +1,2 @@
+pygcercle.py:33: DeprecationWarning: an integer is required (got type numpy.float64).  Implicit conversion to integers using __int__ is deprecated, and may be removed in a future version of Python.
+  pygame.draw.line(surface, YELLOW, (300, 300), (x,y), 1)
